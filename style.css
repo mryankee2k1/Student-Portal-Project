@@ -1,0 +1,49 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+input{
+}
+label{
+    margin-top: 5%;
+    float: left;
+}
+
+header{
+    margin-top: 2%;
+    text-align: center;
+}
+
+#title{
+    text-align: center;
+}
+
+#fname,#lname{
+    width:100%;
+}
+
+#form-container{
+    position: absolute;
+    left: 50%;
+    margin-left: -120px;
+    width:240px
+
+}
+
+
+.container{
+   position: absolute;
+   top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -200px;
+    color:white;
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    background-color: black;
+
+}
